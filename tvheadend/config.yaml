@@ -29,6 +29,6 @@ schema:
   - str
 slug: tvheadend
 stage: experimental
-url: https://github.com/simtoons/addon-tvheadend
+url: https://github.com/simtoons/addon-tvheadend/tree/main
 version: 2.4.4
 webui: http://[HOST]:[PORT:9981]/
